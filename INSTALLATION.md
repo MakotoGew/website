@@ -286,3 +286,4 @@ After cloning repository to your local, perform the following steps from the roo
     ```
 
 Now you're running JSON Schema website in a development mode. Container is mapped with your local copy of the website. Whenever you make changes to the code, the website will refresh and changes visible in `http://localhost:3000`.
+
