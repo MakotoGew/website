@@ -1,6 +1,6 @@
 [![JSON Schema logo - Build more, break less, empower others.](https://raw.githubusercontent.com/json-schema-org/.github/main/assets/json-schema-banner.png)](https://json-schema.org)
 
-<br/>
+<br/> 
 <p>
     <a href="https://github.com/json-schema-org/website/graphs/contributors" alt="JSON Schema GitHub website contributors">
       <img src="https://img.shields.io/github/contributors/json-schema-org/website?color=orange" />
